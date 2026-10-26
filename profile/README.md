@@ -21,4 +21,4 @@ Free and open source (MIT) · macOS 13+ · Windows 10/11 beta
 ## Contact
 
 hello@nyttastudio.com · [nyttastudio.com](https://nyttastudio.com)
-Building in public: [@deve4stern](https://x.com/deve4stern) on X
+[@nyttaapps](https://x.com/nyttaapps) on X
